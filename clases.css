@@ -1,0 +1,26 @@
+body {
+    background-color: green;
+    
+}
+
+.container {
+    display: flex;
+}
+
+.banner1 {
+    text-align: right;
+    display: flex;
+}
+
+.img1 {
+    text-align: center;
+    background-color: rgb(79, 96, 164);
+    width: 150px;
+    height: 150px;
+    color:rgb(64, 169, 48);
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
